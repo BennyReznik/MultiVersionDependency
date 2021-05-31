@@ -1,0 +1,6 @@
+C:\Users\BREZNIK1\source\repos\MultiVersionDependency\DllVersion1.0\bin\Debug\DllVersion1.0.dll
+C:\Users\BREZNIK1\source\repos\MultiVersionDependency\DllVersion1.0\bin\Debug\DllVersion1.0.pdb
+C:\Users\BREZNIK1\source\repos\MultiVersionDependency\DllVersion1.0\obj\Debug\DllVersion1.0.csprojAssemblyReference.cache
+C:\Users\BREZNIK1\source\repos\MultiVersionDependency\DllVersion1.0\obj\Debug\DllVersion1.0.csproj.CoreCompileInputs.cache
+C:\Users\BREZNIK1\source\repos\MultiVersionDependency\DllVersion1.0\obj\Debug\DllVersion1.0.dll
+C:\Users\BREZNIK1\source\repos\MultiVersionDependency\DllVersion1.0\obj\Debug\DllVersion1.0.pdb

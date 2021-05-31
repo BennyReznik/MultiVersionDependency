@@ -1,0 +1,12 @@
+C:\Users\BREZNIK1\source\repos\MultiVersionDependency\MultiVersionDependency\bin\Debug\MultiVersionDependency.exe.config
+C:\Users\BREZNIK1\source\repos\MultiVersionDependency\MultiVersionDependency\bin\Debug\MultiVersionDependency.exe
+C:\Users\BREZNIK1\source\repos\MultiVersionDependency\MultiVersionDependency\bin\Debug\MultiVersionDependency.pdb
+C:\Users\BREZNIK1\source\repos\MultiVersionDependency\MultiVersionDependency\obj\Debug\MultiVersionDependency.csprojAssemblyReference.cache
+C:\Users\BREZNIK1\source\repos\MultiVersionDependency\MultiVersionDependency\obj\Debug\MultiVersionDependency.csproj.CoreCompileInputs.cache
+C:\Users\BREZNIK1\source\repos\MultiVersionDependency\MultiVersionDependency\obj\Debug\MultiVersionDependency.csproj.CopyComplete
+C:\Users\BREZNIK1\source\repos\MultiVersionDependency\MultiVersionDependency\obj\Debug\MultiVersionDependency.exe
+C:\Users\BREZNIK1\source\repos\MultiVersionDependency\MultiVersionDependency\obj\Debug\MultiVersionDependency.pdb
+C:\Users\BREZNIK1\source\repos\MultiVersionDependency\MultiVersionDependency\bin\Debug\SecondDependency.dll
+C:\Users\BREZNIK1\source\repos\MultiVersionDependency\MultiVersionDependency\bin\Debug\SecondDependency.pdb
+C:\Users\BREZNIK1\source\repos\MultiVersionDependency\MultiVersionDependency\bin\Debug\DllVersioning.dll
+C:\Users\BREZNIK1\source\repos\MultiVersionDependency\MultiVersionDependency\bin\Debug\DllVersioning.pdb

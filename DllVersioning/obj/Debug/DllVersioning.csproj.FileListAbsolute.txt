@@ -1,0 +1,5 @@
+C:\Users\BREZNIK1\source\repos\MultiVersionDependency\DllVersioning\obj\Debug\DllVersioning.csproj.CoreCompileInputs.cache
+C:\Users\BREZNIK1\source\repos\MultiVersionDependency\DllVersioning\bin\Debug\DllVersioning.dll
+C:\Users\BREZNIK1\source\repos\MultiVersionDependency\DllVersioning\bin\Debug\DllVersioning.pdb
+C:\Users\BREZNIK1\source\repos\MultiVersionDependency\DllVersioning\obj\Debug\DllVersioning.dll
+C:\Users\BREZNIK1\source\repos\MultiVersionDependency\DllVersioning\obj\Debug\DllVersioning.pdb
