@@ -8,5 +8,5 @@ C:\Users\BREZNIK1\source\repos\MultiVersionDependency\MultiVersionDependency\obj
 C:\Users\BREZNIK1\source\repos\MultiVersionDependency\MultiVersionDependency\obj\Debug\MultiVersionDependency.pdb
 C:\Users\BREZNIK1\source\repos\MultiVersionDependency\MultiVersionDependency\bin\Debug\SecondDependency.dll
 C:\Users\BREZNIK1\source\repos\MultiVersionDependency\MultiVersionDependency\bin\Debug\SecondDependency.pdb
-C:\Users\BREZNIK1\source\repos\MultiVersionDependency\MultiVersionDependency\bin\Debug\DllVersioning.dll
-C:\Users\BREZNIK1\source\repos\MultiVersionDependency\MultiVersionDependency\bin\Debug\DllVersioning.pdb
+C:\Users\BREZNIK1\source\repos\MultiVersionDependency\MultiVersionDependency\bin\Debug\V2\DllVersioning.dll
+C:\Users\BREZNIK1\source\repos\MultiVersionDependency\MultiVersionDependency\bin\Debug\V1\DllVersioning.dll

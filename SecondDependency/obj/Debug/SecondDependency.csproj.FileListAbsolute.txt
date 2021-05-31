@@ -3,4 +3,4 @@ C:\Users\BREZNIK1\source\repos\MultiVersionDependency\SecondDependency\bin\Debug
 C:\Users\BREZNIK1\source\repos\MultiVersionDependency\SecondDependency\obj\Debug\SecondDependency.csproj.CoreCompileInputs.cache
 C:\Users\BREZNIK1\source\repos\MultiVersionDependency\SecondDependency\obj\Debug\SecondDependency.dll
 C:\Users\BREZNIK1\source\repos\MultiVersionDependency\SecondDependency\obj\Debug\SecondDependency.pdb
-C:\Users\BREZNIK1\source\repos\MultiVersionDependency\SecondDependency\obj\Debug\SecondDependency.csprojAssemblyReference.cache
+C:\Users\BREZNIK1\source\repos\MultiVersionDependency\SecondDependency\bin\Debug\V2\DllVersioning.dll

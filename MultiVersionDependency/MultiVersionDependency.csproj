@@ -33,9 +33,10 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
-    <Reference Include="DllVersioning">
-      <HintPath>bin\Debug\V1\DllVersioning.dll</HintPath>
-      <Private>True</Private>
+    <Reference Include="DllVersioning, Version=1.0.0.0, Culture=neutral, PublicKeyToken=ad7f456646305b23, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>V1\DllVersioning.dll</HintPath>
+      <Private>False</Private>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
@@ -59,9 +60,15 @@
       <Name>SecondDependency</Name>
     </ProjectReference>
   </ItemGroup>
+  <ItemGroup />
   <ItemGroup>
-    <Folder Include="V1\" />
-    <Folder Include="V2\" />
+    <Content Include="V1\DllVersioning.dll">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <PropertyGroup>
+    <PreBuildEvent>
+    </PreBuildEvent>
+  </PropertyGroup>
 </Project>
